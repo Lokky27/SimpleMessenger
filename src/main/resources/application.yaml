@@ -1,0 +1,4 @@
+spring.datasource.url: jdbc:postgresql://localhost:5432/messenger
+spring.datasource.username: postgres
+spring.datasource.password: buputi2789
+spring.jpa.hibernate.ddl-auto: create-drop
