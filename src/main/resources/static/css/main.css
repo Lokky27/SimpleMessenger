@@ -1,5 +1,5 @@
 .messages_and_users {
-    display: flex;
+    display: none;
     margin-bottom: 30px;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .controls {
-    display: flex;
+    display: none;
 }
 .new_message {
     width: 800px;
