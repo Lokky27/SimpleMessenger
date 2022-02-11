@@ -18,6 +18,7 @@
     border-radius: 5px;
     border: 1px solid gray;
     background-color: #fffdc9;
+    overflow-y: scroll;
 }
 
 .controls {
@@ -26,4 +27,24 @@
 .new_message {
     width: 800px;
     margin-right: 30px;
+}
+
+.message-item {
+    margin: 30px;
+}
+
+.message_header {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.datetime {
+    margin-right: 30px;
+    color: blue;
+}
+
+.username {
+    font-weight: bold;
+    color: red;
 }
